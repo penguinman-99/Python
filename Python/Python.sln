@@ -9,6 +9,10 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ListPractice", "..\ListPrac
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ListMethod", "..\ListMethod\ListMethod.pyproj", "{EFF103ED-5DB6-47E9-85DD-2100DC3E0F55}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "String", "..\String\String.pyproj", "{6DB8C2C0-39B4-43E4-8979-A190CAEB89F3}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "data structure", "..\data structure\data structure.pyproj", "{B4D20B6A-F1E0-4D28-95D4-9B4E9AA09A0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +41,18 @@ Global
 		{EFF103ED-5DB6-47E9-85DD-2100DC3E0F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFF103ED-5DB6-47E9-85DD-2100DC3E0F55}.Release|x64.ActiveCfg = Release|Any CPU
 		{EFF103ED-5DB6-47E9-85DD-2100DC3E0F55}.Release|x86.ActiveCfg = Release|Any CPU
+		{6DB8C2C0-39B4-43E4-8979-A190CAEB89F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB8C2C0-39B4-43E4-8979-A190CAEB89F3}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6DB8C2C0-39B4-43E4-8979-A190CAEB89F3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6DB8C2C0-39B4-43E4-8979-A190CAEB89F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DB8C2C0-39B4-43E4-8979-A190CAEB89F3}.Release|x64.ActiveCfg = Release|Any CPU
+		{6DB8C2C0-39B4-43E4-8979-A190CAEB89F3}.Release|x86.ActiveCfg = Release|Any CPU
+		{B4D20B6A-F1E0-4D28-95D4-9B4E9AA09A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4D20B6A-F1E0-4D28-95D4-9B4E9AA09A0A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B4D20B6A-F1E0-4D28-95D4-9B4E9AA09A0A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B4D20B6A-F1E0-4D28-95D4-9B4E9AA09A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4D20B6A-F1E0-4D28-95D4-9B4E9AA09A0A}.Release|x64.ActiveCfg = Release|Any CPU
+		{B4D20B6A-F1E0-4D28-95D4-9B4E9AA09A0A}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
