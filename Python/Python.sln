@@ -13,6 +13,10 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "String", "..\String\String.
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "data structure", "..\data structure\data structure.pyproj", "{B4D20B6A-F1E0-4D28-95D4-9B4E9AA09A0A}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Flow", "..\Flow\Flow.pyproj", "{1AD5ADCA-6B16-4B54-94DE-8C26D093837F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "function", "..\function\function.pyproj", "{DC6DFEED-B2AA-4D2A-B4A6-2908BE30B975}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +57,18 @@ Global
 		{B4D20B6A-F1E0-4D28-95D4-9B4E9AA09A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4D20B6A-F1E0-4D28-95D4-9B4E9AA09A0A}.Release|x64.ActiveCfg = Release|Any CPU
 		{B4D20B6A-F1E0-4D28-95D4-9B4E9AA09A0A}.Release|x86.ActiveCfg = Release|Any CPU
+		{1AD5ADCA-6B16-4B54-94DE-8C26D093837F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD5ADCA-6B16-4B54-94DE-8C26D093837F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1AD5ADCA-6B16-4B54-94DE-8C26D093837F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1AD5ADCA-6B16-4B54-94DE-8C26D093837F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AD5ADCA-6B16-4B54-94DE-8C26D093837F}.Release|x64.ActiveCfg = Release|Any CPU
+		{1AD5ADCA-6B16-4B54-94DE-8C26D093837F}.Release|x86.ActiveCfg = Release|Any CPU
+		{DC6DFEED-B2AA-4D2A-B4A6-2908BE30B975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC6DFEED-B2AA-4D2A-B4A6-2908BE30B975}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{DC6DFEED-B2AA-4D2A-B4A6-2908BE30B975}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DC6DFEED-B2AA-4D2A-B4A6-2908BE30B975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC6DFEED-B2AA-4D2A-B4A6-2908BE30B975}.Release|x64.ActiveCfg = Release|Any CPU
+		{DC6DFEED-B2AA-4D2A-B4A6-2908BE30B975}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -88,9 +88,17 @@ menu=list(menu)
 #Quiz
 from random import *
 
-list=[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]
+list1=[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]
 
-shuffle(list)
-print("치킨 당첨자:%d" %list[0])
-list.pop(0)
-print("커피 당첨자:%d %d %d" %(list[0],list[1],list[2]))
+shuffle(list1)
+print("치킨 당첨자:%d" %list1[0])
+list1.pop(0)
+print("커피 당첨자:%d %d %d" %(list1[0],list1[1],list1[2]))
+
+lst=range(1,21)
+lst=list(lst)
+shuffle(lst)
+print(lst)
+winners=sample(lst,4)
+print("커피:{0}".format(winners[1:]))
+print("맥주:{0}".format(winners[0]))
