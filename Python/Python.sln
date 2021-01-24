@@ -17,6 +17,10 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Flow", "..\Flow\Flow.pyproj
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "function", "..\function\function.pyproj", "{DC6DFEED-B2AA-4D2A-B4A6-2908BE30B975}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Class", "..\Class\Class.pyproj", "{8A2C659B-C7B1-42A4-98CD-288DE81CC965}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "InOutput", "..\InOutput\InOutput.pyproj", "{F7D7C546-BE48-4EDD-B31F-0857AA08C3F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,18 @@ Global
 		{DC6DFEED-B2AA-4D2A-B4A6-2908BE30B975}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC6DFEED-B2AA-4D2A-B4A6-2908BE30B975}.Release|x64.ActiveCfg = Release|Any CPU
 		{DC6DFEED-B2AA-4D2A-B4A6-2908BE30B975}.Release|x86.ActiveCfg = Release|Any CPU
+		{8A2C659B-C7B1-42A4-98CD-288DE81CC965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A2C659B-C7B1-42A4-98CD-288DE81CC965}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8A2C659B-C7B1-42A4-98CD-288DE81CC965}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8A2C659B-C7B1-42A4-98CD-288DE81CC965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A2C659B-C7B1-42A4-98CD-288DE81CC965}.Release|x64.ActiveCfg = Release|Any CPU
+		{8A2C659B-C7B1-42A4-98CD-288DE81CC965}.Release|x86.ActiveCfg = Release|Any CPU
+		{F7D7C546-BE48-4EDD-B31F-0857AA08C3F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7D7C546-BE48-4EDD-B31F-0857AA08C3F0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F7D7C546-BE48-4EDD-B31F-0857AA08C3F0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F7D7C546-BE48-4EDD-B31F-0857AA08C3F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7D7C546-BE48-4EDD-B31F-0857AA08C3F0}.Release|x64.ActiveCfg = Release|Any CPU
+		{F7D7C546-BE48-4EDD-B31F-0857AA08C3F0}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
